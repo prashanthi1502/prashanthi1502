@@ -7,7 +7,9 @@
 
 - 🌱 I’m currently learning **J2SE,J2EE,Frontend-HTML,CSS,JavaScript,Bootstrap,TailwindCss,Thymeleaf,React.js,Backend-SpringFramework,MVC,SpringBoot-3.3,Thymeleaf Template,Database-MySql/MongoDB**
 
-- 💬 Ask me about **FullStack Developer**
+- 👨‍💻 All of my projects are available at [https://web-portfolio-0vyk.onrender.com](https://web-portfolio-0vyk.onrender.com)
+
+- 💬 Ask me about **FullStack Software Developement**
 
 - 📫 How to reach me **vemulalakshmiprashanthi@gmail.com**
 
